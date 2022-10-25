@@ -1,0 +1,17 @@
+量子積分 サンプルプログラム
+======================
+
+y = x の量子積分を行うプログラムです。
+積分区間は ０〜π/２ です。従って、解析的な答えは 0.7854… です。
+
+実行環境
+python3 で動作します。
+qiskit の他に次のモジュールが必要です。
+numpy, matplotlib
+
+動作
+実行すれば、回路図と結果を表示します。また、各量子状態の実測回数をグラフ表示します。
+
+参考文献
+https://qiita.com/notori48/items/5bf7e43aa2c4d70aed36
+https://qiita.com/KeiichiroHiga/items/dae9b5395366f0f4fc2c
