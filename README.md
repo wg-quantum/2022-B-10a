@@ -11,7 +11,7 @@
 
     量子コンピューター初学者向けの[Qiskit textbook](https://qiskit.org/textbook/ja/preface.html)学習補助教材です。
     
-3. 量子積分アルゴリズム
+3. [量子積分アルゴリズム](https://github.com/wg-quantum/2022-B-10a/tree/main/%E9%87%8F%E5%AD%90%E7%A9%8D%E5%88%86)
     
     $\sin^2 x$系以外の関数の量子積分回路の研究成果です。
     
